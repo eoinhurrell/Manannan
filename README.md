@@ -24,6 +24,10 @@ We are extracting and correcting the text step by step:
 2. **Pages 13–18** — Extracted
 3. **Later** — Once we have further found errors in these sections we can use them to correct later pages. For example if the extract mistook ' mor ' for ' mór ' it will make the mistake again later. And we will have to easily look for and fix these errors in later chapters. Because of that fixing initial errors drastically reduces errors to find in later chapters.
 
+## Errors
+
+Errors are where the extract makes a spelling error . Do not worry about the page numbers and book name being present. These are easy to take out later. And help keep track of where we are in the book for combining the text together later.
+
 ## Table of Contents (CLAR an leabair)
 
 | # | Chapter | Pages |
